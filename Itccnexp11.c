@@ -2,6 +2,9 @@
 # include <conio.h>
 # include <math.h>
 
+
+//purva shetty
+//manjusha adaling
 void main()
 {
 int j;
