@@ -3,8 +3,8 @@
 # include <math.h>
 
 
-//purva shetty
-//manjusha adaling
+//nv roshni
+//pratiksha shinde
 void main()
 {
 int j;
